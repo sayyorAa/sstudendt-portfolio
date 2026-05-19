@@ -1,3 +1,5 @@
+AOS.init();
+
 const footer__text = document.querySelector('.footer__text')
 const current_year = new Date().getFullYear()
 
